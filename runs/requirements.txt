@@ -1,0 +1,7 @@
+# Gunakan python versi 3.11
+# Jalankan requirements.txt dengan pip install --upgrade -r requirements.txt
+
+pip
+opencv-python-headless
+ultralytics
+onnxruntime
