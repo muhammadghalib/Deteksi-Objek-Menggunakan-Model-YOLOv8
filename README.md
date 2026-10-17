@@ -1,3 +1,3 @@
 # Deteksi Objek Menggunakan Model YOLOv8
 
-![](./docs/Documentation.png)
+![](./docs/Test_Run.png)
